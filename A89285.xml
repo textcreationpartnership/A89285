@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mighty victory in Ireland: obtained by the Lord Inchequin, neere English-mans-Hill. The Lieutenant Generall Kilkettoth, and 4000 more slaine, 40 colours taken, 8 wayne load of powder and ammunition taken, with 6000 armes, and all their bagge and baggage. And taken prisoners 31 captaines, 19 lieutenants, 17 ensignes. And the Lord Taffe totally routed. With the names of the chiefe officers that were slaine on the Lord Inchequins party. And all the particulars of the fight, and a list of the particulars of the victory. Novemb. 29. 1647. Imprimatur Gilb. Mabbott.</title>
+            <author>More, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89285</idno>
+            <idno type="STC">Wing M2693</idno>
+            <idno type="STC">Thomason E417_14</idno>
+            <idno type="STC">ESTC R202955</idno>
+            <idno type="EEBO-CITATION">99863075</idno>
+            <idno type="PROQUEST">99863075</idno>
+            <idno type="VID">161322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161322)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E417[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mighty victory in Ireland: obtained by the Lord Inchequin, neere English-mans-Hill. The Lieutenant Generall Kilkettoth, and 4000 more slaine, 40 colours taken, 8 wayne load of powder and ammunition taken, with 6000 armes, and all their bagge and baggage. And taken prisoners 31 captaines, 19 lieutenants, 17 ensignes. And the Lord Taffe totally routed. With the names of the chiefe officers that were slaine on the Lord Inchequins party. And all the particulars of the fight, and a list of the particulars of the victory. Novemb. 29. 1647. Imprimatur Gilb. Mabbott.</title>
+                  <author>More, William, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, at Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3v: Will. More.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161322:1" rendition="simple:additions"/>
+            <p>A MIGHTY VICTORY IN IRELAND: Obtained by the Lord <hi>Inchequin,</hi> neere <hi>Engliſh-mans-Hill.</hi>
+            </p>
+            <p>The Lieutenant Generall <hi>Kilkettoth,</hi> and 4000 more ſlaine, 40 Colours taken, 8 Wayne load of powder and Ammunition taken, with 6000 <hi>Armes, and all their Bagge and Baggage.</hi>
+            </p>
+            <p>AND Taken priſoners 31 Captaines, 19 Lieutenants, 17 Enſignes. And the Lord <hi>Taffe</hi> totally routed.</p>
+            <p>WITH The Names of the Chiefe Officers that were ſlaine on the Lord <hi>Inchequins</hi> party.</p>
+            <p>And all the particulars of the fight, and a Liſt of the particulars of the Victory.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Novemb 29. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161322:2"/>
+            <pb n="3" facs="tcp:161322:2"/>
+            <head>A Letter from <hi>Munſter</hi> in <hi>Ireland,</hi> of a great Victory obtained by the Lord <hi>Inchequin</hi> againſt the REBELS.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe Lord <hi>Inchequin</hi> received a Letter from the Lord <hi>Taffe,</hi> Generall of the Iriſh Rebels about <hi>Munſter,</hi> that he was now with an Army in the field; and would fight him, if he durſt draw neere, with as many hundreds as he would.</p>
+            <p>The Lord <hi>Inchequin</hi> returned him anſwer, that hee ſhould finde that he was not afraid to meet him in the field, and accordingly his Lordſhip joyned what ſtrength he could make to draw into the field againſt the Rebels (our men at that time were very low, and in much want of proviſions, ſhould they have laid ſtill and let the enemy deſtroy their quarters.</p>
+            <p>The Lord <hi>Taffe</hi> marched with his Army neer <hi>Mal<g ref="char:EOLhyphen"/>lo,</hi> and with him was joyned <hi>Alexander Magdonell,</hi> (commonly called <hi>Kilkittoth</hi>) who deſtroyed ſo ma<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:161322:3"/>Proteſtants in <hi>Scotland:</hi> and with him a conſi<g ref="char:EOLhyphen"/>derable party of Redſhankes, and he was Lieutenant generall of the foot.</p>
+            <p>The whole number of the Rebells Army were 7500. foot, and 1200. horſe well armed, and a good trayne of Ammunition with them in the field, mar<g ref="char:EOLhyphen"/>ching on to deſtroy our quarters in <hi>Munſter.</hi>
+            </p>
+            <p>The Lord <hi>Inchequin</hi> on Friday November 12. 1647. had notice where the Rebells Army was, and his Lordſhip having got together 4000. foot, and 1200. horſes (all the ſtrength he could make, beſides thoſe that muſt of neceſſity be left to keep Garriſons) he marched towards the Rebells.</p>
+            <p>On Saturday November 13. his Lordſhip diſco<g ref="char:EOLhyphen"/>vered the Rebells near <hi>Mallo,</hi> and drew near to him.</p>
+            <p>The Lord <hi>Inchequin</hi> ſent a challenge to the Lord <hi>Taffe</hi> (who was then on the top of a great hill, called <hi>Knocknegaoll,</hi> in Engliſh it is called the Engliſh-mans hill) to come downe from the hill, and he would, (though with a ſmaller number) fight with his whole Army: But the Lord <hi>Taffe</hi> returned anſwer, that hee was ſo much a ſouldier, that having gotten the advan<g ref="char:EOLhyphen"/>tage he would keep it.</p>
+            <p>Hereupon the Lord <hi>Inchequin</hi> moved towards the Rebells, front to front, to invite them to come down, but they would not ſtir.</p>
+            <p>Then his Lordſhip withdrew parties to the other ſides of the hill, and ſent up ſeverall parties of Muſ<g ref="char:EOLhyphen"/>queteers to charge the Rebells, and at laſt got one part of the hill, and the wind ſide, but the Rebells, had routed one of our parties of foot on the other ſide of the hill, whom his Lordſhip with a reſerve (which he had ready) ſoone relieved, but wee loſt at that time ſome 60. men.</p>
+            <p>
+               <pb n="5" facs="tcp:161322:3"/>
+The Lord <hi>Taffe</hi> ſtill kept the hill, being confident to have deſtroyed all the Engliſh (upon a ſuperſtitious obſervation of an old propheſie that is in <hi>Ireland</hi> that an Engliſh-mans hill, (for ſo the place was called) <hi>Magdoneth</hi> ſhall much Engliſh blood ſpill. And this he attributed to himſelfe, becauſe that whereas it did formerly belong to <hi>Magdoneth</hi> it was now in his own hands, preſuming that himſelfe ſhould be the man that ſhould then deſtroy the Engliſh; <hi>Alexander Mag<g ref="char:EOLhyphen"/>donel</hi> being then his Lieutenant generall, but bleſſed be God, the Lord diſappointed their hopes.</p>
+            <p>The Lord <hi>Inchequin</hi> (in this buſineſſe) deported himſelfe gallantly (and indeed we were in great dan<g ref="char:EOLhyphen"/>ger that the Rebells would have compaſſed our men round, there being no place of retreat for our men, yet God put ſuch a courage into our men, that there was a very great influence to performe their utmoſt againſt the Rebells.</p>
+            <p>The deſpute by parties laſted ſome two howres, untill at laſt, the Rebells began by little and little to deſcend from the top of the hill, and then the fight was very fierce, but laſted not long, for in halfe an houre they were touted and broken. And no quarter was given to the Iriſh Rebells, nor to the Red<g ref="char:EOLhyphen"/>ſhankes.</p>
+            <p>The Lord <hi>Inchequine</hi> charged many of quallity of the enemies party, amongſt the reſt, one his Lord<g ref="char:EOLhyphen"/>ſhip purſued to a wood, and there ſlew him, a con<g ref="char:EOLhyphen"/>federate Officer; And his Lordſhip did ſo cut the Rogues that he brake his Sword into three peeces.</p>
+            <p>We loſt Collonell <hi>Gray</hi> and Major <hi>Browne,</hi> and o<g ref="char:EOLhyphen"/>ther who fought gallantly, Sir <hi>Robert Trever,</hi> Judge <hi>Martiall</hi> was ſlaine neere our Carriages, (for the Re<g ref="char:EOLhyphen"/>bels
+<pb n="6" facs="tcp:161322:4"/>had come up ſo cloſe upon us that they had ſeaſed ſome of our Ordinances and Waggons) but were beaten off againe, Sir <hi>William Bridges</hi> was ſlaine in the left wing of Horſe.</p>
+            <p>The whole number of the Rebels ſlaine were about 4000. many of which were killed in the purſuite; and of our men were ſlaine about 120 in all, that is the moſt we have loſt.</p>
+            <p>We have not taken many of the Common Souldi<g ref="char:EOLhyphen"/>ers priſoners, for that would have hindred the victo<g ref="char:EOLhyphen"/>ry much, and beſides the Officers (according to the in cloſed liſt) were divers that eſcaped after they were taken, but thoſe which are expreſt in the Liſt are all ſecured priſoners in cuſtody.</p>
+            <p>The Lord <hi>Taffe</hi> himſelfe hardly eſcaped with ſome few others, and all thoſe who fled are diſperſed ſeve<g ref="char:EOLhyphen"/>rall wayes, ſo that it is beleived they will hardly e<g ref="char:EOLhyphen"/>ſcape.</p>
+            <p>There are ſome of the Nobillity of <hi>Ireland,</hi> and others of the Generall Aſſembly (Knights and others) of <hi>Kilkenny</hi> that were ſlaine, but I cannot (as yet) give you a liſt of their names.</p>
+            <p>This is a great bleſſing, the Lord grant that we may improve it to his glory. So prayes</p>
+            <closer>
+               <signed>Your Honours humble Servant,
+<hi>WILL. MORE.</hi>
+               </signed>
+               <dateline>Dated at our Quarters in the field neere <hi>Knocknegaoll</hi>
+                  <date>the 13. of Novem. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="lists_of_casualties_and_prisoners">
+            <pb n="7" facs="tcp:161322:4"/>
+            <list>
+               <head>A LIST of the particulars of the great Victory obtained by the Lord <hi>Inche<g ref="char:EOLhyphen"/>quin the</hi> 13. of <hi>Novem.</hi> 1647. at <hi>Knock<g ref="char:EOLhyphen"/>negaoll</hi> in <hi>Munſter</hi> in <hi>Ireland.</hi>
+               </head>
+               <item>
+                  <list>
+                     <head>Slaine of the Rebels,</head>
+                     <item>
+                        <hi>Alexander Magdonell (Kilkittoth)</hi> Lieu<g ref="char:EOLhyphen"/>tenant Generall of the Foote,</item>
+                     <item>4000 and odde ſlain, whereof divers conſiderable Officers.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Taken priſoners</head>
+                     <item>1 Collonell,</item>
+                     <item>1 Lieutenant Colonell,</item>
+                     <item>1 Major,</item>
+                     <item>31 Captaines, beſides 9 that after<g ref="char:EOLhyphen"/>wards eſcaped,</item>
+                     <item>19 Leiutenants,</item>
+                     <item>17 En<g ref="char:EOLhyphen"/>ſignes,</item>
+                     <item>divers inferiour Officers, and ſome few Common Souldiers.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Taken beſides,</head>
+                     <item>38 Colours of Foote,</item>
+                     <item>2 Colours of Horſe</item>
+                     <item>6000 Armes,</item>
+                     <item>4 Waine loade of Powder,</item>
+                     <item>4 Waine loade of other Ammunition,</item>
+                     <item>All their Carriages, bag and baggage.</item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:161322:5"/>
+                  <list>
+                     <head>Slaine on the Lord Inchequeenes party</head>
+                     <item>Sir <hi>Robert Trevers,</hi>
+                     </item>
+                     <item>Judge <hi>Marſhall</hi>
+                     </item>
+                     <item>Collonell <hi>Sir William Bridges,</hi>
+                     </item>
+                     <item>Collonell <hi>Gray,</hi>
+                     </item>
+                     <item>Major <hi>Browne,</hi>
+                     </item>
+                     <item>120. Souldiers and other Officers,</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
